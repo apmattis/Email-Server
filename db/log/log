@@ -1,0 +1,32 @@
+Thu Jan 18 14:25:32 CST 2018 /172.16.5.83:36238 /172.16.5.83 HELO 250 Initial handshake
+Thu Jan 18 14:25:32 CST 2018 /172.16.5.83:36238 /172.16.5.83 AUTH 334 Request for login
+Thu Jan 18 14:25:32 CST 2018 /172.16.5.83:36238 /172.16.5.83 AUTH 235 User authenticated
+Thu Jan 18 14:25:32 CST 2018 /172.16.5.83:36238 /172.16.5.83 INBX 200 Request for inbox contents.
+Thu Jan 18 14:25:32 CST 2018 /172.16.5.83:36238 /172.16.5.83 OTBX 200 Request for outbox contents.
+Thu Jan 18 14:25:32 CST 2018 /172.16.5.83:36238 /172.16.5.83 DRFT 200 Request for inbox contents.
+Thu Jan 18 14:25:32 CST 2018 /172.16.5.83:36240 /172.16.5.83 HELO 250 Initial handshake
+Thu Jan 18 14:25:32 CST 2018 /172.16.5.83:36240 /172.16.5.83 QUIT 250 Session terminated
+**************************************************END OF SESSION**************************************************
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 HELO 250 Initial handshake
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 CREA 334 Request for new User
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 CREA 555 Passwords did not meet requirements
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 CREA 334 Request for new User
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 CREA 334 New User Created Successfully
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 AUTH 334 Request for login
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 AUTH 235 User authenticated
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 INBX 200 Request for inbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 INBX 200 Request for inbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 OTBX 200 Request for outbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 OTBX 200 Request for outbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 DRFT 200 Request for inbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 DRFT 200 Request for inbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 OTBX 200 Request for outbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36250 /172.16.5.83 OTBX 200 Request for outbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36252 /172.16.5.83 HELO 250 Initial handshake
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36252 /172.16.5.83 AUTH 334 Request for login
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36252 /172.16.5.83 AUTH 535 Incorrect password
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36252 /172.16.5.83 AUTH 334 Request for login
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36252 /172.16.5.83 AUTH 235 User authenticated
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36252 /172.16.5.83 INBX 200 Request for inbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36252 /172.16.5.83 OTBX 200 Request for outbox contents.
+Thu Jan 18 14:31:40 CST 2018 /172.16.5.83:36252 /172.16.5.83 DRFT 200 Request for inbox contents.
